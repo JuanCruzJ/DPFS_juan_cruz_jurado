@@ -1,8 +1,7 @@
 # DPFS_juan_cruz_jurado
-# DPFS_juan_rodriguez
 
 ### 👨‍💻 Acerca de mí
-Hola, soy Juan Rodríguez, desarrollador en formación. Este proyecto es parte de mi desafío profesional para aplicar conocimientos de desarrollo Full Stack. Mi objetivo es crear un e-commerce funcional y atractivo, poniendo en práctica las metodologías ágiles y las tecnologías aprendidas.
+Hola, soy Juan Cruz, desarrollador en formación. Este proyecto es parte de mi desafío profesional para aplicar conocimientos de desarrollo Full Stack. Mi objetivo es crear un e-commerce funcional y atractivo, poniendo en práctica las metodologías ágiles y las tecnologías aprendidas.
 
 ---
 
